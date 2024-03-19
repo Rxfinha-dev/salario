@@ -54,7 +54,7 @@ namespace salario
                 salarioLiquido2 = salarioLiquido1-(salarioLiquido1 * 0.15);
             }
 
-            Console.WriteLine("O seu salário liquído é: " + salarioLiquido2);
+            Console.WriteLine("O seu salário liquído é: " + salarioLiquido2);  
             Console.ReadKey();
 
 
